@@ -1,2 +1,2 @@
 # Pokémon Report
-Link: 
+View it here: https://wildjr.github.io/pokemonreport/
