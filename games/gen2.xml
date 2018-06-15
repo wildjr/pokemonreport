@@ -108,7 +108,7 @@
     <pokemon>
         <number>22</number>
         <name>fearow</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>23</number>
@@ -173,7 +173,7 @@
     <pokemon>
         <number>35</number>
         <name>clefairy</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>36</number>
@@ -343,7 +343,7 @@
     <pokemon>
         <number>69</number>
         <name>bellsprout</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>70</number>
@@ -473,7 +473,7 @@
     <pokemon>
         <number>95</number>
         <name>onix</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>96</number>
@@ -603,7 +603,7 @@
     <pokemon>
         <number>121</number>
         <name>starmie</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>122</number>
@@ -648,7 +648,7 @@
     <pokemon>
         <number>130</number>
         <name>gyarados</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>131</number>
@@ -953,7 +953,7 @@
     <pokemon>
         <number>191</number>
         <name>sunkern</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>192</number>
@@ -1002,7 +1002,7 @@
     </pokemon>
     <pokemon>
         <number>201</number>
-        <name>unown</name>
+        <name>unown-z</name>
         <status>caught</status>
     </pokemon>
     <pokemon>
@@ -1203,7 +1203,7 @@
     <pokemon>
         <number>241</number>
         <name>miltank</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>242</number>
@@ -1213,17 +1213,17 @@
     <pokemon>
         <number>243</number>
         <name>raikou</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>244</number>
         <name>entei</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>245</number>
         <name>suicune</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>246</number>
@@ -1243,16 +1243,16 @@
     <pokemon>
         <number>249</number>
         <name>lugia</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>250</number>
         <name>ho-oh</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>251</number>
         <name>celebi</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
 </pokedex>
