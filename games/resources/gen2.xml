@@ -233,7 +233,7 @@
     <pokemon>
         <number>47</number>
         <name>parasect</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>48</number>
@@ -273,7 +273,7 @@
     <pokemon>
         <number>55</number>
         <name>golduck</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>56</number>

@@ -10,7 +10,7 @@ function loadDex(generation, boxsize, rowsize)
 		}
 	};
 	
-	xmlhttp.open("GET", "gen"+generation+".xml", true);
+	xmlhttp.open("GET", "resources/gen"+generation+".xml", true);
 	xmlhttp.send();
 }
 
@@ -58,7 +58,6 @@ function parseDex(xml, boxsize, rowsize) {
 	}
 
 	text+="</table>";
-	document.getElementById("dexdata").innerHTML = text;
 }
 
 function loadExtra(generation, boxsize, rowsize)
@@ -71,7 +70,7 @@ function loadExtra(generation, boxsize, rowsize)
 		}
 	};
 	
-	xmlhttp.open("GET", "gen"+generation+"extra.xml", true);
+	xmlhttp.open("GET", "resources/gen"+generation+"extra.xml", true);
 	xmlhttp.send();
 }
 
