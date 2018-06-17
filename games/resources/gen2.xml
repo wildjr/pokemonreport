@@ -158,7 +158,7 @@
     <pokemon>
         <number>32</number>
         <name>nidoran-m</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>33</number>
