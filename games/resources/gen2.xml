@@ -553,7 +553,7 @@
     <pokemon>
         <number>111</number>
         <name>rhyhorn</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>112</number>
