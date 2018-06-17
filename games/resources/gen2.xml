@@ -73,7 +73,7 @@
     <pokemon>
         <number>15</number>
         <name>beedrill</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>16</number>
