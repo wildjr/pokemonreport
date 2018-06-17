@@ -6,7 +6,7 @@ function loadDex(generation, boxsize, rowsize)
 	var xmlhttp = new XMLHttpRequest();
 	xmlhttp.onreadystatechange = function() {
 	if (this.readyState == 4 && this.status == 200) {
-		parseDex(this, boxsize, rowsize);
+		parseDex(this, generation, boxsize, rowsize);
 		}
 	};
 	
@@ -14,7 +14,7 @@ function loadDex(generation, boxsize, rowsize)
 	xmlhttp.send();
 }
 
-function parseDex(xml, boxsize, rowsize) {
+function parseDex(xml, generation, boxsize, rowsize) {
 	var i;
 	var xmlDoc = xml.responseXML;
 
@@ -58,6 +58,7 @@ function parseDex(xml, boxsize, rowsize) {
 	}
 
 	text+="</table>";
+	loadExtra(generation, boxsize, rowsize);
 }
 
 function loadExtra(generation, boxsize, rowsize)
