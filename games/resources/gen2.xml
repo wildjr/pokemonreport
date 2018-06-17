@@ -288,12 +288,12 @@
     <pokemon>
         <number>58</number>
         <name>growlithe</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>59</number>
         <name>arcanine</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>60</number>
