@@ -103,7 +103,7 @@
     <pokemon>
         <number>21</number>
         <name>spearow</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>22</number>
@@ -123,7 +123,7 @@
     <pokemon>
         <number>25</number>
         <name>pikachu</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>26</number>
@@ -138,7 +138,7 @@
     <pokemon>
         <number>28</number>
         <name>sandslash</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>29</number>
@@ -418,7 +418,7 @@
     <pokemon>
         <number>84</number>
         <name>doduo</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>85</number>
@@ -818,7 +818,7 @@
     <pokemon>
         <number>164</number>
         <name>noctowl</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>165</number>
@@ -833,7 +833,7 @@
     <pokemon>
         <number>167</number>
         <name>spinarak</name>
-        <status>notcaught</status>
+        <status>caught</status>
     </pokemon>
     <pokemon>
         <number>168</number>
